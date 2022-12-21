@@ -1,5 +1,10 @@
 .content-header, .flex-center, .import-button_image, .settings-plan-option, .settings-plan-option .title, .settings-row, .update-plan-content .button {
-width: 100% !important;
-padding: 0px !important;
+  width: 100% !important;
+  padding: 0px !important;
 
+}
+
+.sketch-item--thumbnail flex-center overflow-hidden relative{
+  width: 100% !important;
+  padding: 0px !important;
 }
